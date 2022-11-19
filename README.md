@@ -1,3 +1,3 @@
-# goit-markup-hw-05
-GoIT Homework 5 - Animation and modal window
-https://aslanukr.github.io/goit-markup-hw-05/
+# goit-markup-hw-06
+GoIT Homework 6 - Forms
+https://aslanukr.github.io/goit-markup-hw-06/
