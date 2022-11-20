@@ -794,11 +794,6 @@ PORTFOLIO STYLES
   color: var(--primary-white-color);
 }
 
-.subscribe-group {
-  display: flex;
-  width: 100%;
-}
-
 .subscribe_form {
   display: flex;
   align-items: center;
