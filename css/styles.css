@@ -917,6 +917,16 @@ PORTFOLIO STYLES
   cursor: pointer;
 }
 
+.modal-icon {
+  fill: #000000;
+  transition: fill 250ms var(--timing-function);
+}
+
+.modal-btn:hover .modal-icon,
+.modal-btn:focus .modal-icon {
+  fill: var(--accent-color);
+}
+
 .modal-text {
   display: block;
   text-align: center;
@@ -1039,6 +1049,11 @@ PORTFOLIO STYLES
 
 .modal-form-checkbox:checked + .agreement-icon .check {
   opacity: 1;
+}
+
+.agreement-link {
+  color: var(--accent-color);
+  text-underline-offset: 3px;
 }
 
 .modal-form-btn {
